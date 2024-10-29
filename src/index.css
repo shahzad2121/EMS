@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: 'Satoshi';
+    background: #000;
+    color: white;
+}
+#overf::-webkit-scrollbar{
+    display: none;
+}
+#scroll::-webkit-scrollbar{
+    display: none;
+}
