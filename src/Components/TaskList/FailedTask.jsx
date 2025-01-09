@@ -14,6 +14,9 @@ const FailedTask = () => {
               <p className="font-light text-lg leading-tight mb-3">
               {data.description}
               </p>
+              <p className="font-light text-lg leading-tight mb-3">
+              {data.description}
+              </p>
               <div className='w-full flex py-2 justify-between items-center'>
               <button className='bg-red-700 px-2 py-1 w-[80%] rounded-md'>Failed</button>
               </div>
