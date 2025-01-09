@@ -17,6 +17,7 @@ const ActiveTask = ({data}) => {
       <div>
       <div className='w-full flex py-2 justify-between items-center'>
               <button className='bg-green-700 px-2 py-1 rounded-md'>Mark as Accepted</button>
+              <button className='bg-green-700 px-2 py-1 rounded-md'>Mark as Accepted</button>
               <button className='bg-red-700 px-2 py-1 rounded-md w-[45%]'>Mark as Failed</button>
               </div>
       </div>
