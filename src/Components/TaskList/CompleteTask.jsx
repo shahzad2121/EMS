@@ -16,6 +16,7 @@ const CompleteTask = ({data}) => {
               </p>
               <div className='w-full flex py-2 justify-between items-center'>
               <button className='bg-green-700 px-2 py-1 rounded-md w-[70%]'>Completed</button>
+              <button className='bg-green-700 px-2 py-1 rounded-md w-[70%]'>Completed</button>
               </div>
             </div>
           </div>
