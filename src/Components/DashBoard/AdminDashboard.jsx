@@ -9,6 +9,8 @@ const AdminDashboard = (props) => {
       <Header changeUser={props.changeUser} />
       <TaskAssign />
       <AllTask />
+      <TaskAssign />
+      <AllTask />
     </>
   );
 };
